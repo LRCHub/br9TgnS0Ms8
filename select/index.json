@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "LA･LA･LA LOVE SONG",
+  "base_artist": "Toshinobu Kubota",
+  "createdAt": "2026-01-04T11:30:19.439241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LA・LA・LA・LOVE SONG",
+      "artist": "Ohashi Trio",
+      "has_synced": true,
+      "path": "select/01_LA・LA・LA・LOVE_SONG_Ohashi_Trio.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LA･LA･LA･LOVE SONG",
+      "artist": "大橋トリオ",
+      "has_synced": true,
+      "path": "select/02_LA・LA・LA・LOVE_SONG_大橋トリオ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG (LIVE 2017)",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/03_LA・LA・LA_LOVE_SONG_(LIVE_2017)_久保田_利伸.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "Toshinobu Kubota feat. Naomi Campbell",
+      "has_synced": true,
+      "path": "select/04_LA・LA・LA_LOVE_SONG_Toshinobu_Kubota_feat._Naomi_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "La La La Love Song",
+      "artist": "Toshinobu Kubota",
+      "has_synced": true,
+      "path": "select/05_La_La_La_Love_Song_Toshinobu_Kubota.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "Toshinobu Kubota (久保田 利伸)",
+      "has_synced": true,
+      "path": "select/06_LA・LA・LA_LOVE_SONG_Toshinobu_Kubota_(久保田_利伸).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG (Instrumental)",
+      "artist": "Toshinobu Kubota (久保田 利伸)",
+      "has_synced": true,
+      "path": "select/07_LA・LA・LA_LOVE_SONG_(Instrumental)_Toshinobu_Kubota_(久保田_利伸).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La La La Love Song (with Naomi Campbell)",
+      "artist": "久保田利伸",
+      "has_synced": true,
+      "path": "select/08_La_La_La_Love_Song_(with_Naomi_Campbell)_久保田利伸.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LA LA LA LOVE SONG",
+      "artist": "Toshinobu Kubota; Naomi Campbell",
+      "has_synced": true,
+      "path": "select/09_LA_LA_LA_LOVE_SONG_Toshinobu_Kubota;_Naomi_Campbell.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "Unchain",
+      "has_synced": true,
+      "path": "select/10_LA・LA・LA_LOVE_SONG_Unchain.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "BoA with SOUL'd OUT",
+      "has_synced": true,
+      "path": "select/11_LA・LA・LA_LOVE_SONG_BoA_with_SOUL'd_OUT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田利伸 with ナオミ・キャンベル",
+      "has_synced": true,
+      "path": "select/12_LA・LA・LA_LOVE_SONG_久保田利伸_with_ナオミ・キャンベル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "Kubota, Toshinobu with Campbell, Naomi",
+      "has_synced": true,
+      "path": "select/13_LA・LA・LA_LOVE_SONG_Kubota,_Toshinobu_with_Campbell,_Naomi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "LA･LA･LA LOVE SONG",
+      "artist": "Toshinobu Kubota",
+      "has_synced": true,
+      "path": "select/14_LA・LA・LA_LOVE_SONG_Toshinobu_Kubota.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "La La La Love Song",
+      "artist": "Toshinobu Kubota",
+      "has_synced": true,
+      "path": "select/15_La_La_La_Love_Song_Toshinobu_Kubota.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/16_LA・LA・LA_LOVE_SONG_BoA.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_01_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_02_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "La・La・La Love Song",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_03_La・La・La_Love_Song_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_04_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_05_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_06_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "La・La・La Love Song",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_07_La・La・La_Love_Song_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_08_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_09_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "LA・LA・LA LOVE SONG",
+      "artist": "久保田 利伸",
+      "has_synced": false,
+      "path": "select/pl_10_LA・LA・LA_LOVE_SONG_久保田_利伸.txt"
+    }
+  ]
+}
